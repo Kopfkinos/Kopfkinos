@@ -3,9 +3,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connor-murphy-64b871170/)
 - 🇬🇧 **Northcoders** Software Development Bootcamp graduate April 2025
-- 💻 **Harvard CS50** online student, on-going 
-- ⏩ Continuing learning and development in **Javascript/Typescript**, **HTML** and **CSS**
-- 👉 Working towards competency in **Python**  
+- 💻 **Harvard CS50** online student, on-going
+- 🦊 **Odin Project** online student, on-going
+- ⏩ Continuing learning and development in **Javascript/Typescript**, **HTML** and **CSS** 
 - 🔭 Looking for junior/entry roles/apprenticeships in full-stack development in the UK
 
 ---
